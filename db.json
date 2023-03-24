@@ -20,7 +20,7 @@
           "roomtype":"standard",
           "info": "All staff vaccinated with 1st dose",
           "rating": "4.5",
-          "StanPrice": "249",
+          "StanPrice": "100",
           "PremPrice":"5000",
           "discount": "50"
          },
@@ -35,7 +35,7 @@
           "roomtype":"standard",
           "info": "All staff vaccinated with 1st dose",
           "rating": "4.5",
-          "StanPrice": "399",
+          "StanPrice": "200",
           "PremPrice":"5000",
           "discount": "50"
          },
@@ -50,7 +50,7 @@
           "roomtype":"standard",
           "info": "All staff vaccinated with 1st dose",
           "rating": "4.5",
-          "StanPrice": "499",
+          "StanPrice": "300",
           "PremPrice":"5000",
           "discount": "50"
          },
@@ -65,7 +65,7 @@
           "roomtype":"standard",
           "info": "All staff vaccinated with 1st dose",
           "rating": "4.5",
-          "StanPrice": "599",
+          "StanPrice": "100",
           "PremPrice":"5000",
           "discount": "50"
          },
@@ -80,7 +80,7 @@
           "roomtype":"standard",
           "info": "All staff vaccinated with 1st dose",
           "rating": "4.5",
-          "StanPrice": "199",
+          "StanPrice": "500",
           "PremPrice":"5000",
           "discount": "50"
          },
@@ -95,7 +95,7 @@
           "roomtype":"standard",
           "info": "All staff vaccinated with 1st dose",
           "rating": "4.5",
-          "StanPrice": "899",
+          "StanPrice": "600",
           "PremPrice":"5000",
           "discount": "50"
          },
@@ -110,7 +110,7 @@
           "roomtype":"standard",
           "info": "All staff vaccinated with 1st dose",
           "rating": "4.5",
-          "StanPrice": "2499",
+          "StanPrice": "700",
           "PremPrice":"5000",
           "discount": "50"
          },
@@ -125,7 +125,7 @@
           "roomtype":"standard",
           "info": "All staff vaccinated with 1st dose",
           "rating": "4.5",
-          "StanPrice": "2499",
+          "StanPrice": "800",
           "PremPrice":"5000",
           "discount": "50"
          }, 
@@ -140,7 +140,7 @@
           "roomtype":"standard",
           "info": "All staff vaccinated with 1st dose",
           "rating": "4.5",
-          "StanPrice": "2499",
+          "StanPrice": "900",
           "PremPrice":"5000",
           "discount": "50"
          }
